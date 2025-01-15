@@ -48,7 +48,9 @@ npm install
 
 - Running the project:
 
-~Note:~[-Make sure you have installed mySql server on your machine and configured well]
+`Note:`
+
+- Make sure you have installed mySql server on your machine and configured well
 
 ```bash
 npm start
